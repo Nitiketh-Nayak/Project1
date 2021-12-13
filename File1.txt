@@ -9,4 +9,6 @@ helloooooo
 
 Change for bug2 fix.
 
+Change to check normal push to remote repo
+
 
